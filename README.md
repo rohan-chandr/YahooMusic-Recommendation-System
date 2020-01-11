@@ -16,6 +16,9 @@ Kaggle Competition: https://www.kaggle.com/c/ee627A-Spring2019/leaderboard
 * testTrack_hierarchy.txt -- UserID|TrackID|Album|Artist|Genre1|Genre2|…
 * Each user has 6 tracks that are assigned in the dataset; which have to be recommended/ not recommended to that user. 
 
+## Business Impact
+Help companies increase revenue by increasing customer engagement and satisfaction by recommending them tracks they would love.  
+
 ## Usage
 
 ### Download the Repository
